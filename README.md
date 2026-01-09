@@ -148,6 +148,12 @@ graph TD
 
 ## 4. Hướng Dẫn Cài Đặt & Chạy (Build Instructions)
 
+Nếu không muốn build, có thể truy cập vào link GitHub sau để chạy file exe:
+
+- Library App: https://github.com/QuangNguyenNgoc/LibrarySystem/releases/tag/v1
+
+- Unit test : https://github.com/QuangNguyenNgoc/LibrarySystem/releases/tag/Test
+
 Dự án sử dụng **CMake** để biên dịch. Các bước thực hiện như sau:
 
 ### Chuẩn bị:
