@@ -1,0 +1,138 @@
+[
+  {
+    "author": "F. Scott Fitzgerald",
+    "available": "4",
+    "id": "1",
+    "quantity": "5",
+    "title": "The Great Gatsby",
+    "year": "1925"
+  },
+  {
+    "author": "Robert C. Martin",
+    "available": "4",
+    "id": "2",
+    "quantity": "5",
+    "title": "Clean Code",
+    "year": "2008"
+  },
+  {
+    "author": "Erich Gamma",
+    "available": "4",
+    "id": "3",
+    "quantity": "5",
+    "title": "Design Patterns",
+    "year": "1994"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "available": "4",
+    "id": "4",
+    "quantity": "5",
+    "title": "The C++ Programming Language",
+    "year": "2013"
+  },
+  {
+    "author": "J.K. Rowling",
+    "available": "4",
+    "id": "5",
+    "quantity": "5",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": "1997"
+  },
+  {
+    "author": "Andrew Hunt",
+    "available": "5",
+    "id": "6",
+    "quantity": "5",
+    "title": "The Pragmatic Programmer",
+    "year": "1999"
+  },
+  {
+    "author": "Harper Lee",
+    "available": "4",
+    "id": "7",
+    "quantity": "5",
+    "title": "To Kill a Mockingbird",
+    "year": "1960"
+  },
+  {
+    "author": "Thomas H. Cormen",
+    "available": "5",
+    "id": "8",
+    "quantity": "5",
+    "title": "Introduction to Algorithms",
+    "year": "2009"
+  },
+  {
+    "author": "J.R.R. Tolkien",
+    "available": "5",
+    "id": "9",
+    "quantity": "5",
+    "title": "The Lord of the Rings",
+    "year": "1954"
+  },
+  {
+    "author": "Robert C. Martin",
+    "available": "4",
+    "id": "10",
+    "quantity": "5",
+    "title": "The Clean Coder",
+    "year": "2011"
+  },
+  {
+    "author": "George Orwell",
+    "available": "4",
+    "id": "11",
+    "quantity": "5",
+    "title": "1984",
+    "year": "1949"
+  },
+  {
+    "author": "Fred Brooks",
+    "available": "4",
+    "id": "12",
+    "quantity": "5",
+    "title": "The Mythical Man-Month",
+    "year": "1975"
+  },
+  {
+    "author": "J.D. Salinger",
+    "available": "5",
+    "id": "13",
+    "quantity": "5",
+    "title": "The Catcher in the Rye",
+    "year": "1951"
+  },
+  {
+    "author": "Martin Fowler",
+    "available": "4",
+    "id": "14",
+    "quantity": "5",
+    "title": "Refactoring",
+    "year": "1999"
+  },
+  {
+    "author": "J.R.R. Tolkien",
+    "available": "4",
+    "id": "15",
+    "quantity": "5",
+    "title": "The Hobbit",
+    "year": "1937"
+  },
+  {
+    "author": "Joshua Bloch",
+    "available": "5",
+    "id": "16",
+    "quantity": "5",
+    "title": "Effective Java",
+    "year": "2001"
+  },
+  {
+    "author": "Aldous Huxley",
+    "available": "5",
+    "id": "17",
+    "quantity": "5",
+    "title": "Brave New World",
+    "year": "1932"
+  }
+]

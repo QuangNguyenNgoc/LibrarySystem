@@ -1,0 +1,67 @@
+[
+  {
+    "borrowed": "[2|2023-10-01|10; 5|2023-10-05|20]",
+    "id": "U001",
+    "name": "Nguyen Van A"
+  },
+  {
+    "borrowed": "[]",
+    "id": "U002",
+    "name": "Tran Thi B"
+  },
+  {
+    "borrowed": "[]",
+    "id": "U003",
+    "name": "Le Van C"
+  },
+  {
+    "borrowed": "[1|2023-09-12|15; 3|2023-09-15|18; 7|2023-09-20|25]",
+    "id": "U004",
+    "name": "Pham Van D"
+  },
+  {
+    "borrowed": "[4|2023-11-01|15]",
+    "id": "U005",
+    "name": "Hoang Thi E"
+  },
+  {
+    "borrowed": "[]",
+    "id": "U006",
+    "name": "Vu Van F"
+  },
+  {
+    "borrowed": "[11|2023-10-10|12]",
+    "id": "U007",
+    "name": "Dang Thi G"
+  },
+  {
+    "borrowed": "[14|2023-08-20|15; 15|2023-08-25|20]",
+    "id": "U008",
+    "name": "Bui Van H"
+  },
+  {
+    "borrowed": "[]",
+    "id": "U009",
+    "name": "Ngo Thi I"
+  },
+  {
+    "borrowed": "[10|2023-11-05|15]",
+    "id": "U010",
+    "name": "Ly Van J"
+  },
+  {
+    "borrowed": "[]",
+    "id": "U011",
+    "name": "Cao Thi K"
+  },
+  {
+    "borrowed": "[12|2023-09-30|18]",
+    "id": "U012",
+    "name": "Tran Van L"
+  },
+  {
+    "borrowed": "[]",
+    "id": "U013",
+    "name": "Nguyen Thi M"
+  }
+]

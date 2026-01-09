@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <Book>
+        <id>1</id>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <quantity>5</quantity>
+        <available>3</available>
+    </Book>
+    <Book>
+        <id>2</id>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <year>2008</year>
+        <quantity>5</quantity>
+        <available>4</available>
+    </Book>
+    <Book>
+        <id>3</id>
+        <title>Design Patterns</title>
+        <author>Erich Gamma</author>
+        <year>1994</year>
+        <quantity>5</quantity>
+        <available>4</available>
+    </Book>
+    <Book>
+        <id>4</id>
+        <title>The C++ Programming Language</title>
+        <author>Bjarne Stroustrup</author>
+        <year>2013</year>
+        <quantity>5</quantity>
+        <available>4</available>
+    </Book>
+    <Book>
+        <id>5</id>
+        <title>Harry Potter and the Sorcerer's Stone</title>
+        <author>J.K. Rowling</author>
+        <year>1997</year>
+        <quantity>5</quantity>
+        <available>5</available>
+    </Book>
+    <Book>
+        <id>6</id>
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt</author>
+        <year>1999</year>
+        <quantity>5</quantity>
+        <available>5</available>
+    </Book>
+    <Book>
+        <id>7</id>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <year>1960</year>
+        <quantity>5</quantity>
+        <available>4</available>
+    </Book>
+    <Book>
+        <id>8</id>
+        <title>Introduction to Algorithms</title>
+        <author>Thomas H. Cormen</author>
+        <year>2009</year>
+        <quantity>5</quantity>
+        <available>5</available>
+    </Book>
+    <Book>
+        <id>9</id>
+        <title>The Lord of the Rings</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1954</year>
+        <quantity>5</quantity>
+        <available>5</available>
+    </Book>
+    <Book>
+        <id>10</id>
+        <title>The Clean Coder</title>
+        <author>Robert C. Martin</author>
+        <year>2011</year>
+        <quantity>5</quantity>
+        <available>4</available>
+    </Book>
+    <Book>
+        <id>11</id>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <quantity>5</quantity>
+        <available>4</available>
+    </Book>
+    <Book>
+        <id>12</id>
+        <title>The Mythical Man-Month</title>
+        <author>Fred Brooks</author>
+        <year>1975</year>
+        <quantity>5</quantity>
+        <available>4</available>
+    </Book>
+    <Book>
+        <id>13</id>
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <year>1951</year>
+        <quantity>5</quantity>
+        <available>5</available>
+    </Book>
+    <Book>
+        <id>14</id>
+        <title>Refactoring</title>
+        <author>Martin Fowler</author>
+        <year>1999</year>
+        <quantity>5</quantity>
+        <available>4</available>
+    </Book>
+    <Book>
+        <id>15</id>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1937</year>
+        <quantity>5</quantity>
+        <available>4</available>
+    </Book>
+    <Book>
+        <id>16</id>
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <year>2001</year>
+        <quantity>5</quantity>
+        <available>5</available>
+    </Book>
+    <Book>
+        <id>17</id>
+        <title>Brave New World</title>
+        <author>Aldous Huxley</author>
+        <year>1932</year>
+        <quantity>5</quantity>
+        <available>5</available>
+    </Book>
+    <Book>
+        <id>18</id>
+        <title>Lap trinh huong doi tuong</title>
+        <author>William Desktop</author>
+        <year>1991</year>
+        <quantity>10</quantity>
+        <available>10</available>
+    </Book>
+</Books>

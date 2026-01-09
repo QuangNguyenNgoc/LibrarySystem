@@ -1,0 +1,18 @@
+id,title,author,year,quantity,available
+1,The Great Gatsby,F. Scott Fitzgerald,1925,5,4
+2,Clean Code,Robert C. Martin,2008,5,5
+3,Design Patterns,Erich Gamma,1994,5,4
+4,The C++ Programming Language,Bjarne Stroustrup,2013,5,4
+5,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,5,4
+6,The Pragmatic Programmer,Andrew Hunt,1999,5,5
+7,To Kill a Mockingbird,Harper Lee,1960,5,4
+8,Introduction to Algorithms,Thomas H. Cormen,2009,5,5
+9,The Lord of the Rings,J.R.R. Tolkien,1954,5,5
+10,The Clean Coder,Robert C. Martin,2011,5,4
+11,1984,George Orwell,1949,5,4
+12,The Mythical Man-Month,Fred Brooks,1975,5,4
+13,The Catcher in the Rye,J.D. Salinger,1951,5,5
+14,Refactoring,Martin Fowler,1999,5,3
+15,The Hobbit,J.R.R. Tolkien,1937,5,4
+16,Effective Java,Joshua Bloch,2001,5,5
+17,Brave New World,Aldous Huxley,1932,5,4

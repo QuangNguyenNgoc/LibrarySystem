@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <Book>
+        <id>U001</id>
+        <name>Nguyen Van A</name>
+        <borrowed>[2|2023-10-01|10; 1|2026-01-09|12]</borrowed>
+    </Book>
+    <Book>
+        <id>U002</id>
+        <name>Tran Thi B</name>
+        <borrowed>[]</borrowed>
+    </Book>
+    <Book>
+        <id>U003</id>
+        <name>Le Van C</name>
+        <borrowed>[]</borrowed>
+    </Book>
+    <Book>
+        <id>U004</id>
+        <name>Pham Van D</name>
+        <borrowed>[1|2023-09-12|15; 3|2023-09-15|18; 7|2023-09-20|25]</borrowed>
+    </Book>
+    <Book>
+        <id>U005</id>
+        <name>Hoang Thi E</name>
+        <borrowed>[4|2023-11-01|15]</borrowed>
+    </Book>
+    <Book>
+        <id>U006</id>
+        <name>Vu Van F</name>
+        <borrowed>[]</borrowed>
+    </Book>
+    <Book>
+        <id>U007</id>
+        <name>Dang Thi G</name>
+        <borrowed>[11|2023-10-10|12]</borrowed>
+    </Book>
+    <Book>
+        <id>U008</id>
+        <name>Bui Van H</name>
+        <borrowed>[14|2023-08-20|15; 15|2023-08-25|20]</borrowed>
+    </Book>
+    <Book>
+        <id>U009</id>
+        <name>Ngo Thi I</name>
+        <borrowed>[]</borrowed>
+    </Book>
+    <Book>
+        <id>U010</id>
+        <name>Ly Van J</name>
+        <borrowed>[10|2023-11-05|15]</borrowed>
+    </Book>
+    <Book>
+        <id>U011</id>
+        <name>Cao Thi K</name>
+        <borrowed>[]</borrowed>
+    </Book>
+    <Book>
+        <id>U012</id>
+        <name>Tran Van L</name>
+        <borrowed>[12|2023-09-30|18]</borrowed>
+    </Book>
+    <Book>
+        <id>U013</id>
+        <name>Nguyen Thi M</name>
+        <borrowed>[]</borrowed>
+    </Book>
+</Books>
